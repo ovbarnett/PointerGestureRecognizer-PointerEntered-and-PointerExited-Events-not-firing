@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp_PointerGestureRecognizers_Example", "MauiApp_PointerGestureRecognizers_Example.csproj", "{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB570AA-E13D-4D30-A663-1CEC2985AAEA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B2BE506-38D8-4A90-A711-DF59A70B1C2A}
+	EndGlobalSection
+EndGlobal
